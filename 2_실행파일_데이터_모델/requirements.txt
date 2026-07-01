@@ -1,0 +1,9 @@
+streamlit>=1.30
+pandas>=2.0
+numpy>=2.0,<3
+scipy
+matplotlib
+konlpy
+wordcloud
+joblib
+scikit-learn==1.7.2
